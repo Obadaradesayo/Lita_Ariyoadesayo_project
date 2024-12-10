@@ -3,5 +3,5 @@
 ### Creating Vpc
 created a public and private vpc for smartshop
 Lita_Ariyoadesayo_project
-baseurl=https://github.com/Obadaradesayo/Lita_Ariyoadesayo_project/edit/main/README.md)
+baseurl=https://github.com/Obadaradesayo/Lita_Ariyoadesayo_project.git)
 skip_if_unavailable=1
